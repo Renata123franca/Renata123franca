@@ -5,8 +5,5 @@
 - 📫 contato:19995102034
 - 😄 Pronomes:
 - ⚡ curiosidade: sou carismática e busco me esforçar mais ou menos nos estudos
-
-<!---
-Renata123franca/Renata123franca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 
+![](https://cdn.dicionariopopular.com/imagens/boo-dormindo.gif)
